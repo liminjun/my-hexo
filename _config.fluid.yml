@@ -8,12 +8,20 @@ subtitle: ''
 description: ''
 keywords:
 author: liminjun
-language: zh-CN
+language: zh
 timezone: ''
 
+# Slogan
+navbar:
+  blog_title: 快乐八哥
+index:
+  slogan:
+    enable: true
+    text: 认真工作，快乐生活
+  banner_img: /img/bg.jpg
 # URL
 ## Set your site url here. For example, if you use GitHub Page, set url as 'https://username.github.io/project'
-url: http://example.com
+url: https://blog.liangbenshu.cn
 permalink: :year/:month/:day/:title/
 permalink_defaults:
 pretty_urls:
@@ -103,3 +111,12 @@ theme: fluid
 ## Docs: https://hexo.io/docs/one-command-deployment
 deploy:
   type: ''
+# Comment plugin
+post:
+  comments:
+    enable: true
+    type: valine
+# Valine
+valine:
+  appId: wPz2CAtXj8LTRmGwKapwB6Kk-gzGzoHsz
+  appKey: mOgpWeM91Pku1VLaPWRxhHMA
