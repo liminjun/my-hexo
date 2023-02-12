@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<search>
+  
+  
+  
+  <entry>
+    <title>部署第一个Web云函数</title>
+    <link href="/2023/02/12/deploy-first-cloud-function/"/>
+    <url>/2023/02/12/deploy-first-cloud-function/</url>
+    
+    <content type="html"><![CDATA[<h3 id="后端主流部署环境"><a href="#后端主流部署环境" class="headerlink" title="后端主流部署环境"></a>后端主流部署环境</h3><p>区别于前端，目前后端主流部署环境有以下4种。</p><ol><li>云服务器，也云主机，包含轻量服务器和裸金属服务器</li><li>容器服务，一般是说Kubernets</li><li>App Engine。应用引擎，无需修改代码，可以无缝把老的代码部署到环境里面。腾讯云叫：云</li><li>云函数。<br><img src="/img/deploy-fist-cloud-function/app-engine-features.png" alt="云托管优势"></li></ol><p>DigitalOcean上四种服务都提供，名字简单明了，国内云服务厂商的名字叫的五花八门。<br><img src="/img/deploy-fist-cloud-function/digitalocean-menu.png" alt="DigitalOcean菜单"></p><h3 id="本地写好代码"><a href="#本地写好代码" class="headerlink" title="本地写好代码"></a>本地写好代码</h3><h3 id="控制台创建"><a href="#控制台创建" class="headerlink" title="控制台创建"></a>控制台创建</h3><p><img src="/img/deploy-fist-cloud-function/new-application.png" alt="image.png"></p><h3 id="运行查看"><a href="#运行查看" class="headerlink" title="运行查看"></a>运行查看</h3><h3 id="迁移注意事项"><a href="#迁移注意事项" class="headerlink" title="迁移注意事项"></a>迁移注意事项</h3>]]></content>
+    
+    
+    <categories>
+      
+      <category>技术</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>腾讯云</tag>
+      
+      <tag>Web云函数</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="/2023/02/12/hello-world/"/>
+    <url>/2023/02/12/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>amazon-honeycode-component-1</title>
+    <link href="/2022/12/27/amazon-honeycode-component-1/"/>
+    <url>/2022/12/27/amazon-honeycode-component-1/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>敏捷入门</title>
+    <link href="/2022/07/31/intro-alige/"/>
+    <url>/2022/07/31/intro-alige/</url>
+    
+    <content type="html"><![CDATA[<h2 id="敏捷入门"><a href="#敏捷入门" class="headerlink" title="敏捷入门"></a>敏捷入门</h2><h2 id="敏捷团队"><a href="#敏捷团队" class="headerlink" title="敏捷团队"></a>敏捷团队</h2><h2 id="敏捷个人"><a href="#敏捷个人" class="headerlink" title="敏捷个人"></a>敏捷个人</h2><h2 id="常用“敏捷”工具"><a href="#常用“敏捷”工具" class="headerlink" title="常用“敏捷”工具"></a>常用“敏捷”工具</h2><h2 id="参考图书"><a href="#参考图书" class="headerlink" title="参考图书"></a>参考图书</h2>]]></content>
+    
+    
+    <categories>
+      
+      <category>管理</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>敏捷管理</tag>
+      
+      <tag>Alige</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>前后端分离下如何完成Web登录</title>
+    <link href="/2021/08/08/how-to-login-with-frontend-and-backend/"/>
+    <url>/2021/08/08/how-to-login-with-frontend-and-backend/</url>
+    
+    <content type="html"><![CDATA[<h3 id="1-Web登录涉及到知识点"><a href="#1-Web登录涉及到知识点" class="headerlink" title="1 Web登录涉及到知识点"></a>1 Web登录涉及到知识点</h3><h4 id="1-1-HTTP无状态性"><a href="#1-1-HTTP无状态性" class="headerlink" title="1.1 HTTP无状态性"></a>1.1 HTTP无状态性</h4><blockquote><p>HTTP是无状态的，一次请求结束，连接断开，下次服务器再收到请求，它就不知道这个请求是哪个用户发过来的。当然它知道是哪个客户端地址发过来的，但是对于我们的应用来说，我们是靠用户来管理，而不是靠客户端。所以对我们的应用而言，它是需要有状态管理的，以便服务端能够准确的知道http请求是哪个用户发起的，从而判断该用户是否有权限继续这个请求。这个过程就是常说的<strong>会话管理</strong>。</p></blockquote><h4 id="1-2-登录流程"><a href="#1-2-登录流程" class="headerlink" title="1.2 登录流程"></a>1.2 登录流程</h4><p>登录的基本流程<br><img src="https://images2018.cnblogs.com/blog/59618/201808/59618-20180816092611781-493556035.png" alt="web-login-flow"></p><h3 id="2-同域登录"><a href="#2-同域登录" class="headerlink" title="2 同域登录"></a>2 同域登录</h3><p>目前大多数Web应用采用前后端分离方式进行开发。所以前端网站或应用都属于SPA（Single Page Application）。如果前端，后台API部署在同域下，不存在跨域的情况，登录方式相对简单。</p><h4 id="2-1-基于Session登录"><a href="#2-1-基于Session登录" class="headerlink" title="2.1 基于Session登录"></a>2.1 基于Session登录</h4><p>服务器端使用Session技术，浏览器端使用Cookie技术。</p><p><img src="https://images2015.cnblogs.com/blog/459873/201611/459873-20161115231400951-1095594983.png" alt="session-based-login"></p><ol><li><p>服务端session是用户第一次访问应用时，服务器就会创建的对象，代表用户的一次会话过程，可以用来存放数据。服务器为每一个session都分配一个唯一的sessionid，以保证每个用户都有一个不同的session对象。</p></li><li><p>服务器在创建完session后，会把sessionid通过cookie返回给用户所在的浏览器，这样当用户第二次及以后向服务器发送请求的时候，就会通过cookie把sessionid传回给服务器，以便服务器能够根据sessionid找到与该用户对应的session对象。</p></li><li><p>session通常有失效时间的设定，比如2个小时。当失效时间到，服务器会销毁之前的session，并创建新的session返回给用户。但是只要用户在失效时间内，有发送新的请求给服务器，通常服务器都会把他对应的session的失效时间根据当前的请求时间再延长2个小时。</p></li><li><p>session在一开始并不具备会话管理的作用。它只有在用户登录认证成功之后，并且往sesssion对象里面放入了用户登录成功的凭证，才能用来管理会话。管理会话的逻辑也很简单，只要拿到用户的session对象，看它里面有没有登录成功的凭证，就能判断这个用户是否已经登录。当用户主动退出的时候，会把它的session对象里的登录凭证清掉。所以在用户登录前或退出后或者session对象失效时，肯定都是拿不到需要的登录凭证的。</p></li></ol><h4 id="2-2-基于Token登录"><a href="#2-2-基于Token登录" class="headerlink" title="2.2 基于Token登录"></a>2.2 基于Token登录</h4><p><img src="https://images2015.cnblogs.com/blog/459873/201611/459873-20161120210044154-648255641.png" alt="token-based-login"></p><ol><li>用户在浏览器中输入用户和密码，后台服务器通过加密或者其他逻辑，生成一个Token。</li><li>前端获取到Token，存储到cookie或者localStorage中，在接下来的请求中，将token通过url参数或者HTTP Header头部传入到服务器</li><li>服务器获取token值，通过查找数据库判断当前token是否有效</li></ol><p>基于Token登录，而且可以用于第三方单点登录的OAuth2.0更适合。可以参考网址：<a href="http://www.ruanyifeng.com/blog/2014/05/oauth_2_0.html">理解OAuth 2.0</a></p><p>token传入示例：<br><img src="https://images2018.cnblogs.com/blog/59618/201808/59618-20180818023625525-463599259.png" alt="by-cookie"></p><p><img src="https://images2018.cnblogs.com/blog/59618/201808/59618-20180818023643013-2141566824.png" alt="by-http-header"></p><h3 id="3-Cookie的传输"><a href="#3-Cookie的传输" class="headerlink" title="3 Cookie的传输"></a>3 Cookie的传输</h3><p>简单地说，cookie 就是浏览器储存在用户电脑上的一小段文本文件。cookie 是纯文本格式，不包含任何可执行的代码。一个 Web 页面或服务器告知浏览器按照一定规范来储存这些信息，<strong>并在随后的请求中将这些信息发送至服务器</strong>，Web 服务器就可以使用这些信息来识别不同的用户。大多数需要登录的网站在用户验证成功之后都会设置一个 cookie，只要这个 cookie 存在并可以，用户就可以自由浏览这个网站的任意页面。再次说明，cookie 只包含数据，就其本身而言并不有害。</p><p><strong>同域情况下，Cookie会在随后的请求中携带</strong></p><h3 id="4-跨域登录"><a href="#4-跨域登录" class="headerlink" title="4 跨域登录"></a>4 跨域登录</h3><p><strong>跨越定义</strong> :由于浏览器同源策略，凡是发送请求的url的协议(http和https)、域名（<a href="http://www.example.com,about.example.com)、端口(8010和8020)三者之间任意一个与当前页面地址不同则视为跨域./">www.example.com,about.example.com）、端口(8010和8020)三者之间任意一个与当前页面地址不同则视为跨域。</a></p><h4 id="4-1-解决同源策略"><a href="#4-1-解决同源策略" class="headerlink" title="4.1 解决同源策略"></a>4.1 解决同源策略</h4><p>基于Session和Token登录都要解决。</p><p><a href="https://developer.mozilla.org/zh-CN/docs/Web/Security/Same-origin_policy">浏览器的同源策略</a></p><p>如果使用同域的方法，那么浏览器会抛出如下错误。demo示例，前端运行在<code>http://localhost:8010/login.html</code>，后台运行在<code>http://localhost:8020/api/login.php</code></p><p><img src="https://images2018.cnblogs.com/blog/59618/201808/59618-20180818025037687-514830877.png" alt="Access-Control-Allow-Origin"></p><p>需要在服务器端设置<code>Header</code>，以PHP为例：</p><figure class="highlight apache"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs apache"><span class="hljs-attribute">header</span>(&#x27;Access-Control-<span class="hljs-literal">Allow</span>-Origin: http://localhost:<span class="hljs-number">8010</span>&#x27;);<br></code></pre></td></tr></table></figure><p>设置完成之后，可以发送请求了，登录成功之后跳转到<code>home.html</code>还是显示未登录，会跳转到<code>login.html</code>页面。效果如下图：</p><h4 id="4-2-解决请求带上Cookie信息"><a href="#4-2-解决请求带上Cookie信息" class="headerlink" title="4.2 解决请求带上Cookie信息"></a>4.2 解决请求带上Cookie信息</h4><p>基于Session登录才需要，因为相关信息是通过Cookie传入，如果是通过url传入，也不需要解决这个。基于Token，后续请求携带token都是通过header里面的字段，所以也不需要解决这个。</p><p>跨越情况下，浏览器此时不会默认在后续请求里面携带上<code>Cookie</code>信息，这个时候前后端都需要设置。以<code>jQuery</code>和<code>PHP</code>为列。</p><p>前端<code>jQuery</code>代码<br>Ajax请求中药设置<code>xhrFields</code></p><figure class="highlight yaml"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs yaml"><span class="hljs-attr">xhrFields:</span> &#123;<br>        <span class="hljs-attr">withCredentials:</span> <span class="hljs-literal">true</span><br>    &#125;<br></code></pre></td></tr></table></figure><p>完整代码如下：</p><figure class="highlight javascript"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br><span class="line">8</span><br><span class="line">9</span><br><span class="line">10</span><br><span class="line">11</span><br><span class="line">12</span><br><span class="line">13</span><br><span class="line">14</span><br><span class="line">15</span><br><span class="line">16</span><br><span class="line">17</span><br><span class="line">18</span><br></pre></td><td class="code"><pre><code class="hljs javascript">$.<span class="hljs-title function_">ajax</span>(&#123;<br>    <span class="hljs-attr">url</span>: <span class="hljs-string">&quot;http://localhost:8020/api/login.php&quot;</span>,<br>    <span class="hljs-attr">type</span>: <span class="hljs-string">&quot;POST&quot;</span>,<br>    <span class="hljs-attr">data</span>: &#123;<br>        <span class="hljs-attr">username</span>: $(<span class="hljs-string">&quot;#username&quot;</span>).<span class="hljs-title function_">val</span>(),<br>        <span class="hljs-attr">password</span>: $(<span class="hljs-string">&quot;#password&quot;</span>).<span class="hljs-title function_">val</span>()<br>    &#125;,<br>    <span class="hljs-attr">dataType</span>: <span class="hljs-string">&quot;json&quot;</span>,<br>    <span class="hljs-attr">xhrFields</span>: &#123;<br>        <span class="hljs-attr">withCredentials</span>: <span class="hljs-literal">true</span><br>    &#125;<br>&#125;).<span class="hljs-title function_">done</span>(<span class="hljs-keyword">function</span> (<span class="hljs-params">response</span>) &#123;<br>    <span class="hljs-keyword">debugger</span>;<br>    $(<span class="hljs-string">&quot;#log&quot;</span>).<span class="hljs-title function_">html</span>(response.<span class="hljs-property">message</span>);<br>    <span class="hljs-variable language_">window</span>.<span class="hljs-property">location</span>.<span class="hljs-property">href</span> = <span class="hljs-string">&quot;home.html&quot;</span>;<br>&#125;).<span class="hljs-title function_">fail</span>(<span class="hljs-keyword">function</span> (<span class="hljs-params">jqXHR, textStatus</span>) &#123;<br>    <span class="hljs-variable language_">console</span>.<span class="hljs-title function_">log</span>(<span class="hljs-string">&quot;Request failed: &quot;</span> + textStatus);<br>&#125;);<br></code></pre></td></tr></table></figure><p>后端<code>php</code>代码</p><figure class="highlight lasso"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><code class="hljs lasso"><span class="hljs-comment">/*需要设置这一行，接收传入Credentials字段*/</span><br><span class="hljs-keyword">header</span>(<span class="hljs-string">&#x27;Access-Control-Allow-Credentials: true&#x27;</span>);  <br><span class="hljs-keyword">header</span>(<span class="hljs-string">&#x27;Access-Control-Allow-Origin: http://localhost:8010&#x27;</span>);<br></code></pre></td></tr></table></figure><p>Demo代码下载：<a href="https://share.weiyun.com/5Nm46eU">https://share.weiyun.com/5Nm46eU</a></p><h3 id="参考链接："><a href="#参考链接：" class="headerlink" title="参考链接："></a>参考链接：</h3><p><a href="https://segmentfault.com/a/1190000009518499">HTTP无状态协议和cookie、session原理</a></p><p><a href="http://bubkoo.com/2014/04/21/http-cookies-explained/">HTTP cookies 详解</a><br><a href="http://www.cnblogs.com/lyzg/p/6067766.html">3种web会话管理的方式</a></p><p><a href="https://coolshell.cn/articles/5353.html">你会做WEB上的用户登录功能吗？</a></p><p><a href="http://insights.thoughtworkers.org/web-app-authentication/">登录工程：现代Web应用中的身份验证技术</a></p><p><a href="https://www.jianshu.com/p/e613a00510dd">angular和jquery的 withCredentials用法</a></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>前端</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>登录</tag>
+      
+      <tag>前端</tag>
+      
+    </tags>
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>Amazon Honeycode低零代码开发平台初体验</title>
+    <link href="/2021/08/08/intro-amazon-honeycode/"/>
+    <url>/2021/08/08/intro-amazon-honeycode/</url>
+    
+    <content type="html"><![CDATA[<h2 id="Amazon-Honeycode平台介绍"><a href="#Amazon-Honeycode平台介绍" class="headerlink" title="Amazon Honeycode平台介绍"></a>Amazon Honeycode平台介绍</h2><blockquote><p><strong>Amazon Honeycode 是 Amazon 提供的全托管低零代码开发平台</strong>。作为一种协作式应用程序构建工具，该平台可以帮助团队提高生产力并按照自己的方式工作。用户可以将Amazon Honeycode用于几乎任何事情：团队任务管理、项目计划、事件管理以及定期更新或状态报告等。</p></blockquote><p>Amazon HoneCode主要目标：</p><p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2b6a0a93b26441ac90786d1596dadce1~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><h2 id="Simple-To-Do模板"><a href="#Simple-To-Do模板" class="headerlink" title="Simple To-Do模板"></a>Simple To-Do模板</h2><p>创建workbook支持三种方式，分别是，我们展示使用<strong>Simple To-Do</strong>模板。</p><ol><li>从头创建</li><li>导入csv文件</li><li>使用模板</li></ol><p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a6010a2c55e34293aded4fcc9776f5b0~tplv-k3u1fbpfcp-watermark.image" alt="image.png"><br>支持使用Tables(数据)、Builder(界面构建)、Automations(流程自动化)。</p><p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/18f7ee28fa88474ab2e165e3bfc33882~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><h2 id="手机和PC查看"><a href="#手机和PC查看" class="headerlink" title="手机和PC查看"></a>手机和PC查看</h2><p><strong>手机端</strong><br>手机端需要安装iOS或者Android客户端。因为没有针对中国市场特殊化定制，官网上面的Android版本是Google Play商店，苹果用户可以直接安装，经测试，访问速度还挺快。国内开发者或者用户可以通过APKPure网站下载。下载链接是：<a href="https://apkpure.com/cn/amazon-honeycode/com.amazon.aws.honeycode">https://apkpure.com/cn/amazon-honeycode/com.amazon.aws.honeycode</a></p><p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/679038a9f306411da21081cbc90a7402~tplv-k3u1fbpfcp-watermark.image" alt="首页.jpg"><br>列表任务<br><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4a01d82c8af34ecbb90a09dd7452a7d3~tplv-k3u1fbpfcp-watermark.image" alt="任务列表.jpg"></p><p>添加任务</p><p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ac7b85275d2c4e4ebb025eba0a0ea298~tplv-k3u1fbpfcp-watermark.image" alt="添加任务.jpg"><br>编辑任务</p><p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ffd21b26d6ef4111b4d07ca1002e3050~tplv-k3u1fbpfcp-watermark.image" alt="编辑任务.jpg"><br><strong>PC端</strong></p><p>列表任务<br><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7f10bdbc600041b6901c634f691f31c0~tplv-k3u1fbpfcp-watermark.image" alt="image.png"><br>添加任务</p><p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6aaf7574c31941a3b5dfb72b25eddea9~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><p>编辑任务</p><p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a0a7b59a8a5c4cb9b81381a32f679a11~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/882fcd7b68f34a249f9dbb7d8456c4c8~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><ol><li>其他很多低代码平台可能主要面向企业，而Honeycode的口号是面向团队，所以更多是鼓励业务人员通过拖拽或者熟悉excel来开发团队或者企业内的应用。先团队，后企业。</li><li>支持手机和PC两端访问，可以有2套样式，也可以Mobile和Web自适应。腾讯云的微搭还可以支持小程序。</li><li>20个成员免费，这样小型公司或者team可以免费体验，相对于微软的Power Apps需要购买office365才能正常使用。</li><li>plus和pro版本支持使用企业或者组织使用自己的Single Sign-on(SSO单点登录)。Amazon不强制用户绑定他们的账号，相对于微软、腾讯（企业微信用户信息）和阿里（钉钉用户信息），更灵活自由。因为很多企业或者团队本身自己实现了单点登录或者采用其他第三方单点登录。</li></ol><p>价格计划<br><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ee99d2d2bb14429a997f53309e681a46~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><p>价格链接：<a href="https://www.honeycode.aws/pricing">https://www.honeycode.aws/pricing</a></p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>Amazon Honeycode提供在线课程，8小节，大概需要2个小时就可以学习完成。属于入门课程，通俗易懂。课程链接：<a href="https://learn.honeycode.aws/honeycode-essentials#/">https://learn.honeycode.aws/honeycode-essentials#/</a></p><p>至此，国际和国内6大云厂商都发布了各自的低零代码平台。</p><p><strong>国际3大云巨头</strong></p><ul><li>Google的AppSheet：<a href="https://cloud.google.com/appsheet">https://cloud.google.com/appsheet</a></li><li>Microsoft的Power Apps：<a href="https://powerapps.microsoft.com/zh-cn/">https://powerapps.microsoft.com/zh-cn/</a></li><li>Amazon的Honeycode：<a href="https://www.honeycode.aws/">https://www.honeycode.aws</a></li></ul><p><strong>国内3大云巨头</strong></p><ul><li>阿里-易搭： <a href="https://yida.alibaba-inc.com/">https://yida.alibaba-inc.com/</a></li><li>腾讯-微搭：<a href="https://cloud.tencent.com/product/weda">https://cloud.tencent.com/product/weda</a></li><li>百度-爱速搭建：<a href="https://cloud.baidu.com/product/isuda.html">https://cloud.baidu.com/product/isuda.html</a></li></ul>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  
+</search>
