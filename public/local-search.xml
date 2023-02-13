@@ -4,6 +4,19 @@
   
   
   <entry>
+    <title>Hello World</title>
+    <link href="/2023/02/13/hello-world/"/>
+    <url>/2023/02/13/hello-world/</url>
+    
+    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
+    
+    
+    
+  </entry>
+  
+  
+  
+  <entry>
     <title>部署第一个Web云函数</title>
     <link href="/2023/02/12/deploy-first-cloud-function/"/>
     <url>/2023/02/12/deploy-first-cloud-function/</url>
@@ -25,19 +38,6 @@
       <tag>Web云函数</tag>
       
     </tags>
-    
-  </entry>
-  
-  
-  
-  <entry>
-    <title>Hello World</title>
-    <link href="/2023/02/12/hello-world/"/>
-    <url>/2023/02/12/hello-world/</url>
-    
-    <content type="html"><![CDATA[<p>Welcome to <a href="https://hexo.io/">Hexo</a>! This is your very first post. Check <a href="https://hexo.io/docs/">documentation</a> for more info. If you get any problems when using Hexo, you can find the answer in <a href="https://hexo.io/docs/troubleshooting.html">troubleshooting</a> or you can ask me on <a href="https://github.com/hexojs/hexo/issues">GitHub</a>.</p><h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo new <span class="hljs-string">&quot;My New Post&quot;</span><br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/writing.html">Writing</a></p><h3 id="Run-server"><a href="#Run-server" class="headerlink" title="Run server"></a>Run server</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo server<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/server.html">Server</a></p><h3 id="Generate-static-files"><a href="#Generate-static-files" class="headerlink" title="Generate static files"></a>Generate static files</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo generate<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/generating.html">Generating</a></p><h3 id="Deploy-to-remote-sites"><a href="#Deploy-to-remote-sites" class="headerlink" title="Deploy to remote sites"></a>Deploy to remote sites</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><code class="hljs bash">$ hexo deploy<br></code></pre></td></tr></table></figure><p>More info: <a href="https://hexo.io/docs/one-command-deployment.html">Deployment</a></p>]]></content>
-    
-    
     
   </entry>
   
@@ -118,6 +118,33 @@
     <content type="html"><![CDATA[<h2 id="Amazon-Honeycode平台介绍"><a href="#Amazon-Honeycode平台介绍" class="headerlink" title="Amazon Honeycode平台介绍"></a>Amazon Honeycode平台介绍</h2><blockquote><p><strong>Amazon Honeycode 是 Amazon 提供的全托管低零代码开发平台</strong>。作为一种协作式应用程序构建工具，该平台可以帮助团队提高生产力并按照自己的方式工作。用户可以将Amazon Honeycode用于几乎任何事情：团队任务管理、项目计划、事件管理以及定期更新或状态报告等。</p></blockquote><p>Amazon HoneCode主要目标：</p><p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/2b6a0a93b26441ac90786d1596dadce1~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><h2 id="Simple-To-Do模板"><a href="#Simple-To-Do模板" class="headerlink" title="Simple To-Do模板"></a>Simple To-Do模板</h2><p>创建workbook支持三种方式，分别是，我们展示使用<strong>Simple To-Do</strong>模板。</p><ol><li>从头创建</li><li>导入csv文件</li><li>使用模板</li></ol><p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a6010a2c55e34293aded4fcc9776f5b0~tplv-k3u1fbpfcp-watermark.image" alt="image.png"><br>支持使用Tables(数据)、Builder(界面构建)、Automations(流程自动化)。</p><p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/18f7ee28fa88474ab2e165e3bfc33882~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><h2 id="手机和PC查看"><a href="#手机和PC查看" class="headerlink" title="手机和PC查看"></a>手机和PC查看</h2><p><strong>手机端</strong><br>手机端需要安装iOS或者Android客户端。因为没有针对中国市场特殊化定制，官网上面的Android版本是Google Play商店，苹果用户可以直接安装，经测试，访问速度还挺快。国内开发者或者用户可以通过APKPure网站下载。下载链接是：<a href="https://apkpure.com/cn/amazon-honeycode/com.amazon.aws.honeycode">https://apkpure.com/cn/amazon-honeycode/com.amazon.aws.honeycode</a></p><p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/679038a9f306411da21081cbc90a7402~tplv-k3u1fbpfcp-watermark.image" alt="首页.jpg"><br>列表任务<br><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/4a01d82c8af34ecbb90a09dd7452a7d3~tplv-k3u1fbpfcp-watermark.image" alt="任务列表.jpg"></p><p>添加任务</p><p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ac7b85275d2c4e4ebb025eba0a0ea298~tplv-k3u1fbpfcp-watermark.image" alt="添加任务.jpg"><br>编辑任务</p><p><img src="https://p3-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ffd21b26d6ef4111b4d07ca1002e3050~tplv-k3u1fbpfcp-watermark.image" alt="编辑任务.jpg"><br><strong>PC端</strong></p><p>列表任务<br><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/7f10bdbc600041b6901c634f691f31c0~tplv-k3u1fbpfcp-watermark.image" alt="image.png"><br>添加任务</p><p><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/6aaf7574c31941a3b5dfb72b25eddea9~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><p>编辑任务</p><p><img src="https://p9-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/a0a7b59a8a5c4cb9b81381a32f679a11~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><h2 id="优势"><a href="#优势" class="headerlink" title="优势"></a>优势</h2><p><img src="https://p6-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/882fcd7b68f34a249f9dbb7d8456c4c8~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><ol><li>其他很多低代码平台可能主要面向企业，而Honeycode的口号是面向团队，所以更多是鼓励业务人员通过拖拽或者熟悉excel来开发团队或者企业内的应用。先团队，后企业。</li><li>支持手机和PC两端访问，可以有2套样式，也可以Mobile和Web自适应。腾讯云的微搭还可以支持小程序。</li><li>20个成员免费，这样小型公司或者team可以免费体验，相对于微软的Power Apps需要购买office365才能正常使用。</li><li>plus和pro版本支持使用企业或者组织使用自己的Single Sign-on(SSO单点登录)。Amazon不强制用户绑定他们的账号，相对于微软、腾讯（企业微信用户信息）和阿里（钉钉用户信息），更灵活自由。因为很多企业或者团队本身自己实现了单点登录或者采用其他第三方单点登录。</li></ol><p>价格计划<br><img src="https://p1-juejin.byteimg.com/tos-cn-i-k3u1fbpfcp/ee99d2d2bb14429a997f53309e681a46~tplv-k3u1fbpfcp-watermark.image" alt="image.png"></p><p>价格链接：<a href="https://www.honeycode.aws/pricing">https://www.honeycode.aws/pricing</a></p><h2 id="小结"><a href="#小结" class="headerlink" title="小结"></a>小结</h2><p>Amazon Honeycode提供在线课程，8小节，大概需要2个小时就可以学习完成。属于入门课程，通俗易懂。课程链接：<a href="https://learn.honeycode.aws/honeycode-essentials#/">https://learn.honeycode.aws/honeycode-essentials#/</a></p><p>至此，国际和国内6大云厂商都发布了各自的低零代码平台。</p><p><strong>国际3大云巨头</strong></p><ul><li>Google的AppSheet：<a href="https://cloud.google.com/appsheet">https://cloud.google.com/appsheet</a></li><li>Microsoft的Power Apps：<a href="https://powerapps.microsoft.com/zh-cn/">https://powerapps.microsoft.com/zh-cn/</a></li><li>Amazon的Honeycode：<a href="https://www.honeycode.aws/">https://www.honeycode.aws</a></li></ul><p><strong>国内3大云巨头</strong></p><ul><li>阿里-易搭： <a href="https://yida.alibaba-inc.com/">https://yida.alibaba-inc.com/</a></li><li>腾讯-微搭：<a href="https://cloud.tencent.com/product/weda">https://cloud.tencent.com/product/weda</a></li><li>百度-爱速搭建：<a href="https://cloud.baidu.com/product/isuda.html">https://cloud.baidu.com/product/isuda.html</a></li></ul>]]></content>
     
     
+    
+  </entry>
+  
+  
+  
+  <entry>
+    <title>2019年五一-无锡三国城</title>
+    <link href="/2019/05/03/international-workers-day-travel/"/>
+    <url>/2019/05/03/international-workers-day-travel/</url>
+    
+    <content type="html"><![CDATA[<h3 id="1-景点介绍"><a href="#1-景点介绍" class="headerlink" title="1. 景点介绍"></a>1. 景点介绍</h3><p><img src="/img/international-workers-day-travel/1.jpg" alt="image"><br>介绍：无锡三国影视城（Wuxi Three Kingdoms Film and Television City）又名中央电视台无锡影视基地，位于江苏省无锡市美丽太湖畔，是国家首批国家AAAAA级旅游景区，也是中国首创的超大规模全沉浸式影视拍摄和旅游基地。</p><p>地址：江苏省无锡市滨湖区山水西路太湖之滨</p><p>级别：5A风景区 票价：85元。</p><p><strong>提示</strong> 三国城和旁边的水浒城，大同小异，所以推荐游玩三国城就可以。</p><h3 id="2-自驾路线"><a href="#2-自驾路线" class="headerlink" title="2. 自驾路线"></a>2. 自驾路线</h3><p>团长自驾走的省道，速度慢，但是无高速公路费。如果想快一点，可以走高速。五一节假日，高速免费，但是也有可能拥堵。<br><img src="/img/international-workers-day-travel/2.png" alt="image"></p><p>高速线路：<br><img src="/img/international-workers-day-travel/3.png" alt="image"></p><h3 id="3-游玩线路和景点"><a href="#3-游玩线路和景点" class="headerlink" title="3. 游玩线路和景点"></a>3. 游玩线路和景点</h3><p><img src="/img/international-workers-day-travel/4.png" alt="image"></p><p>进入景区左手边就是《三英战吕布表演》，看完表演之后，可以按照标记的线路进行游玩。适合边看边照片。<br><img src="/img/international-workers-day-travel/5.jpg" alt="image"></p><ol><li>桃园和三国人物雕塑群<br> <img src="/img/international-workers-day-travel/6.jpg" alt="image"></li><li>神龙殿<br> <img src="/img/international-workers-day-travel/7.jpg" alt="image"><br> <img src="/img/international-workers-day-travel/8.jpg" alt="image"></li><li> 八卦阵（有很多小野花，非常漂亮）</li><li> 甘露寺</li><li>香宁宫<br> <img src="/img/international-workers-day-travel/9.jpg" alt="image"></li><li> 特技场（火烧赤壁表演）</li><li>赤壁栈桥<br> <img src="/img/international-workers-day-travel/10.jpg" alt="image"></li><li> 吴王宫</li><li> 水军训练营</li><li>曹操楼船<br><img src="/img/international-workers-day-travel/11.jpg" alt="image"></li></ol><h3 id="4-温馨提示"><a href="#4-温馨提示" class="headerlink" title="4. 温馨提示"></a>4. 温馨提示</h3><ol><li> 有大型停车场，15元一次。</li><li> 上午10:30和下午16:00有《三英战吕布表演》，值得观看。</li><li> 景区不是特别大，如果不去水浒城，那么不建议购买公交票和租赁电动车</li><li> 景区再孙尚香酒楼附近有小吃点，价格不算太贵。</li><li> 湖边风比较大，可以带个外套。</li></ol><p><strong>最后祝大家五一快乐。</strong><br><img src="/img/international-workers-day-travel/12.png" alt="image"></p>]]></content>
+    
+    
+    <categories>
+      
+      <category>生活</category>
+      
+    </categories>
+    
+    
+    <tags>
+      
+      <tag>假期</tag>
+      
+      <tag>无锡</tag>
+      
+    </tags>
     
   </entry>
   
