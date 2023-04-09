@@ -1,0 +1,1 @@
+cloudbase hosting deploy ./public/ -e my-hexo-2g2ea5vp87a3e63e
